@@ -244,7 +244,7 @@ while(flag==True):
         new=input()
         animation("CREATE PASSWORD\n")
         npas=input()
-        animation("enter your mobile number\n")
+        animation("ENTER YOUR MOBILE NUMBER\n")
         nmob=int(input())
         animation("ENTER ACCOUNT NUMBER\n")
         acc=int(input())
